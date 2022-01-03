@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wannabegooddevv
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning webdev
+- 🌱 I’m currently learning HTML, CSS, and React
 
 
 <!---
