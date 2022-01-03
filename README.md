@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning HTML, CSS, and React
-- 📫 How to reach me **daffa.kamal@mail.ugm.ac.id**
+- 📫 Feel free to reach me **daffa.kamal@mail.ugm.ac.id**
 - ⚡ I like traveling, playing table tennis, and see natural scenery
 
 <h3>Skills</h3>
