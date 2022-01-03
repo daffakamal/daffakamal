@@ -1,8 +1,8 @@
 <h1 align="center">Hi everyone! I'm Daffa K.</h1>
 <h3 align="center">A person that interested in website development</h3>
 
-<p align="left"> <img src="https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/freeimg_66415292freejpg850.jpg" /> </p>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<p align="center"> <img src="https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/freeimg_66415292freejpg850.jpg" /> </p>
+
 
 👀 I’m interested in webdev
 🌱 I’m currently learning HTML, CSS, and React
