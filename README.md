@@ -28,7 +28,7 @@ and more soon...
   
 <br />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabegooddevv&layout=compact)](https://github.com/wannabegooddevv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabegooddevv&theme=gruvbox_light&layout=compact)](https://github.com/wannabegooddevv/github-readme-stats)
 
 <h3 align="center">Let's learn and grow together!</h3>
 
