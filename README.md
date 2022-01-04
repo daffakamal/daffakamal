@@ -24,6 +24,9 @@ and more soon...
 
 <br />
 
+[![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabegooddevv)](https://github.com/wannabegooddevv/github-readme-stats)
+
+
 <h3 align="center">Let's learn and grow together!</h3>
 
 
