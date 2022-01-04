@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone! I'm Daffa K.</h1>
+<h1 align="center">Hi everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Daffa K.</h1>
 <h3 align="center">A person that interested in website development</h3>
 
 <p align="center"> <img src="https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/freeimg_66415292freejpg850.jpg" /> </p>
