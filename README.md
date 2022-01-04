@@ -18,8 +18,9 @@ and more soon...
 <br />
 
 <h3>Don't hesitate to contact me</h3>
-<a href="https://www.linkedin.com/in/daffa-kamal-606973221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCXBLup0JR%2FmH7Ib7Rc7%2Baw%3D%3D" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://instagram.com/_dvvf_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/daffa-kamal-606973221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCXBLup0JR%2FmH7Ib7Rc7%2Baw%3D%3D" target="blank"> <img align="center" alt="Daffa Kamal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://instagram.com/_dvvf_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dvvf_" height="30" width="40" /></a>
 
 <br />
 
