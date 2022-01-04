@@ -2,6 +2,7 @@
 <h3 align="center">A person that interested in website development</h3>
 <br />
 <img align="right" alt="GIF" width="500" height="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning HTML, CSS, and React
 - 📫 Feel free to reach me : **daffa.kamal@mail.ugm.ac.id**
