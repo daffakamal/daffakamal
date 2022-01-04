@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Daffa K.</h1>
 <h3 align="center">A person that interested in website development</h3>
 <br />
-<img align="right" alt="GIF" width="450" height="270" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" alt="GIF" width="450" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning HTML, CSS, and React
