@@ -8,7 +8,7 @@
 - 📫 Feel free to reach me : **daffa.kamal@mail.ugm.ac.id**
 - ⚡ I like traveling, playing table tennis, and see natural scenery
 
-<h3>Skills</h3>
+<h3>Currently learning :</h3>
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -16,7 +16,7 @@ and more soon...
 
 <br />
 
-<h3>Don't hesitate to contact me</h3>
+<h3>Don't hesitate to contact me :</h3>
 
 <a href="https://www.linkedin.com/in/daffa-kamal-606973221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCXBLup0JR%2FmH7Ib7Rc7%2Baw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Daffa Kamal's LinkedIN" height="30" width="40" /></a>
 <a href="https://instagram.com/_dvvf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dvvf_" height="30" width="40" /></a>
