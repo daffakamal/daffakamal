@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" width="450" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning HTML, CSS, and React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
 - 📫 Feel free to reach me : **daffa.kamal@mail.ugm.ac.id**
 - ⚡ I like traveling, playing table tennis, and seeing natural scenery
 
