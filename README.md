@@ -25,11 +25,11 @@ and more soon...
   
 <br />
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabegooddevv&theme=gruvbox_light&show_icons=true)
+![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabegooddevv&theme=react&show_icons=true)
   
 <br />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabegooddevv&theme=gruvbox_light&layout=compact)](https://github.com/wannabegooddevv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabegooddevv&theme=react&layout=compact)](https://github.com/wannabegooddevv/github-readme-stats)
 
 <h3 align="center">:sparkles: Let's learn and grow together! :sparkles:</h3>
 
