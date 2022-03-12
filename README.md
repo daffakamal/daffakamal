@@ -5,7 +5,6 @@
 
 - :smile: I’m interested in creating a simple website but also attractive
 - :desktop_computer:	 I’m currently learning HTML, CSS, JavaScript, and Next.js
-- 📫 Feel free to reach me : **dvffvkml@gmail.com**
 - :earth_asia: :ping_pong: :deciduous_tree: I like traveling, playing table tennis, and seeing natural scenery
 
 <h3>Currently learning :</h3>
