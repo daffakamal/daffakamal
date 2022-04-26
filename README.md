@@ -11,7 +11,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />(I haven't found the Next.js img yet :))
+Next.js (I haven't found the Next.js img yet :))
 
 
 <br />
@@ -19,7 +19,6 @@
 <h3>Don't hesitate to contact me :</h3>
 
 <a href="https://www.linkedin.com/in/daffa-kamal-606973221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="daffa-kamal-606973221" height="30" width="40" /></a>
-<a href="https://instagram.com/_dvvf_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dvvf_" height="30" width="40" /></a>
 
   
 <br />
