@@ -23,7 +23,7 @@ Next.js (I haven't found the Next.js img yet :))
   
 <br />
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabegooddevv&theme=react&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannabegooddevv&theme=react&show_icons=true&locale=en" alt="wannabegooddevv" /></p>
   
 <br />
   
