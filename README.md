@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" width="430" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - :smile: I’m interested in creating a simple website but also attractive
-- :desktop_computer:	 I’m currently learning HTML, CSS, JavaScript, and Next.js
+- :desktop_computer:	 I’m currently learning HTML, CSS, Tailwind CSS, JavaScript, and Next.js
 - :earth_asia: :ping_pong: :deciduous_tree: I like traveling, playing table tennis, and seeing natural scenery
 
 <h3>Currently learning :</h3>
