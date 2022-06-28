@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Daffa K.</h1>
+<h1 align="center">Hi everyone! I'm Daffa K.</h1>
 <h3 align="center">I'm currently struggling to learn front-end stuff</h3>
 <br />
 <img align="right" alt="GIF" width="430" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
