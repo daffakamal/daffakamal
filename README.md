@@ -15,12 +15,12 @@
 
                                                                                                                                             
 <br />
-<h3>Design tools:</h3>
+<h3>Design tool :</h3>
 <img align="left" alt="Figma" width="100px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br />
 
-<h3>Don't hesitate to contact me :</h3>
+<h3>My social :</h3>
 
 [<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daffa-kamal-606973221)
 
