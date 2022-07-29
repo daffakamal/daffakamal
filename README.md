@@ -1,10 +1,10 @@
 <h1 align="center">Hi everyone! I'm Daffa K.</h1>
-<h3 align="center">I'm currently struggling to learn front-end stuff</h3>
+<h3 align="center">Currently struggling to learn front-end stuff</h3>
 <br />
 <img align="right" alt="GIF" width="430" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - :smile: I’m interested in creating a simple website but also attractive
-- :desktop_computer:	 I’m currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
+- :desktop_computer:	 Currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
 - :earth_asia: :ping_pong: :deciduous_tree: I like traveling, playing table tennis, and seeing natural scenery
 
 <h3>Front-end tech stack :</h3>
