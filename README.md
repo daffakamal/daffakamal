@@ -21,7 +21,7 @@
 
 <h3>Don't hesitate to contact me :</h3>
 
-<a href="https://www.linkedin.com/in/daffa-kamal-606973221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="daffa-kamal-606973221" height="30" width="40" /></a>
+[<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daffa-kamal-606973221)
 
   
 <br />
