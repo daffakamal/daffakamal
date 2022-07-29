@@ -4,15 +4,18 @@
 <img align="right" alt="GIF" width="430" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - :smile: I’m interested in creating a simple website but also attractive
-- :desktop_computer:	 I’m currently learning HTML, CSS, Tailwind CSS, JavaScript, and Next.js
+- :desktop_computer:	 I’m currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
 - :earth_asia: :ping_pong: :deciduous_tree: I like traveling, playing table tennis, and seeing natural scenery
 
 <h3>Front-end tech stack :</h3>
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-Next.js (I haven't found the Next.js img yet :))
-
+<img align="left" alt="HTML5" width="100px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="CSS3" width="90px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="JavaScript" width="150px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="TailwindCSS" width="100px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white />
+<img align="left" alt="Next.js" width="100px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<br />
+<h3>Design tools:</h3>
+<img align="left" alt="Figma" width="100px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br />
 
