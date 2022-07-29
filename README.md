@@ -26,7 +26,7 @@
   
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannabegooddevv&theme=react&show_icons=true&locale=en" alt="wannabegooddevv" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=wannabegooddevv&theme=react&show_icons=true&locale=en"/></p>
   
 <br />
   
