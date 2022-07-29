@@ -1,7 +1,6 @@
 <h1 align="center">Hi everyone! I'm Daffa K.</h1>
 <h3 align="center">I'm currently struggling to learn front-end stuff</h3>
 <br />
-<img align="right" alt="GIF" width="430" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - :smile: I’m interested in creating a simple website but also attractive
 - :desktop_computer:	 Currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
@@ -13,6 +12,7 @@
 <img align="left" alt="JavaScript" width="150px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="Next.js" width="120px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <br />
+
 <h3 align="left">Design tool :</h3>
 <img align="left" alt="Figma" width="100px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <br />
