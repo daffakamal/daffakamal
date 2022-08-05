@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone! I'm Daffa K.</h1>
-<h3 align="center">I'm currently struggling to learn front-end stuff</h3>
+<h3 align="center">I'm currently struggling on learning front-end stuffs</h3>
 <br />
 
 - :smile: I’m interested in creating a simple website but also attractive
