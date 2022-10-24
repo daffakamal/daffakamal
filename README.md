@@ -23,7 +23,7 @@
 [<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daffa-kamal-606973221)
 <br />
 
-<h3 align="center">:sparkles: Let's learn and grow together! :sparkles:</h3>
+<h3 align="center">:sparkles::sparkles:</h3>
 
 
 <!---
