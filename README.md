@@ -1,10 +1,11 @@
 <h1 align="center">Hi everyone! I'm Daffa K.</h1>
-<h3 align="center">Currently struggling on learning front-end stuffs</h3>
 <br />
 
-- :smile: I’m interested in creating a simple website but also attractive
-- :desktop_computer:	 Currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
-- :earth_asia: :ping_pong: :deciduous_tree: I like traveling, playing table tennis, and seeing natural scenery
+:smile: I’m interested in creating a simple website but also attractive
+<br />
+:desktop_computer: Currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
+<br />
+:earth_asia: :ping_pong: :deciduous_tree: Besides that, I also like traveling, playing table tennis, and seeing natural scenery
 
 <h3>Front-end tech stack :</h3>
 <img align="left" alt="HTML5" width="100px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,7 +19,7 @@
 <img align="left" alt="Figma" width="100px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <br />
 
-<h3>My social :</h3>
+<h3>Reach me at :</h3>
 
 [<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daffa-kamal-606973221)
 <br />
