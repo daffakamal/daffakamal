@@ -3,7 +3,7 @@
 
 :smile: I’m interested in creating a simple website but also attractive
 <br />
-:desktop_computer: Currently learning HTML, CSS, JavaScript, Tailwind CSS, and Next.js
+:desktop_computer: Currently learning HTML, CSS, JavaScript, Tailwind CSS, React.js, and Next.js
 <br />
 :earth_asia: :ping_pong: :deciduous_tree: Besides that, I also like traveling, playing table tennis, and seeing natural scenery
 
@@ -24,8 +24,10 @@
 [<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daffa-kamal-606973221)
 <br />
 
-<h3 align="center">:sparkles::sparkles:</h3>
-
+![daffakamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffakamal&hide=issues,stars&show_icons=true&theme=radical)
+<br />
+<br />
+![GitHub Streak](https://streak-stats.demolab.com/?user=daffakamal&theme=dark)
 
 <!---
 wannabegooddevv/wannabegooddevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
