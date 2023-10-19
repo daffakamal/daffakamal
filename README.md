@@ -24,7 +24,7 @@
 [<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daffa-kamal-606973221)
 <br />
 
-![daffakamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffakamal&hide=issues,stars&show_icons=true&theme=algolia)
+![daffakamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffakamal&rank_icon=github&hide=issues,stars&show_icons=true&theme=algolia)
 <br />
 <br />
 ![GitHub Streak](https://streak-stats.demolab.com/?user=daffakamal&theme=algolia)
